@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SlightMC | LifeSteal Server</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    body {
-      font-family: 'Roboto', sans-serif;
-      background-color: #0f0f0f;
-      color: #ffffff;
-      line-height: 1.6;
-    }
-    header {
-      background: linear-gradient(135deg, #ff003c, #7300ff);
-      padding: 20px;
-      text-align: center;
-    }
-    header h1 {
-      font-size: 3rem;
-    }
+
     .ip-box {
       background: #1c1c1c;
       padding: 15px;
